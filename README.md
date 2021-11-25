@@ -1,4 +1,6 @@
-## 👋 Hi, I’m @spieles21
+<h1 align="center">Hi 👋, I'm David Koller</h1>
+<h3 align="center">I'm David Koller, a 24-year old technical enthusiast who does web development and passionate to work with open-source projects and make cool stuff.</h3>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=spieles21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -15,14 +17,14 @@
 ![Django](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)&emsp;
 
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&emsp;
 
  ### 👉 Software & Tools
  
+![Linux](https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white)&emsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&emsp;
 ![PhpStorm](https://img.shields.io/badge/PhpStorm-0078D4?style=for-the-badge&logo=phpstorm&logoColor=white)&emsp;
-![Linux](https://img.shields.io/badge/Linux-100000?style=for-the-badge&logo=linux&logoColor=white)&emsp;
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&emsp;
 ![NodeJS](https://img.shields.io/badge/Node.JS-43853D?style=for-the-badge&logo=node.js&logoColor=white)&emsp;
  
