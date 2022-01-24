@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm David Koller</h1>
 <h3 align="center">I'm David Koller, a 24-year old technical enthusiast who does web development and passionate to work with open-source projects and make cool stuff.</h3>
 
+![Codewars](https://www.codewars.com/users/spieles21/badges/large)  
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=spieles21&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 ## 🛠️ My Skills
